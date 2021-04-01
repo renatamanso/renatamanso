@@ -1,5 +1,5 @@
 # Olá, Bem vindo ao meu GitHub!
-<img align="right" src="https://media.istockphoto.com/vectors/woman-programmer-or-female-program-development-vector-id1198094594?s=612x612" width="35%"/>
+<img align="right" src="https://media.istockphoto.com/vectors/woman-programmer-or-female-program-development-vector-id1198094594?s=612x612" width="30%"/>
 
 #### Sou Renata Manso, Analista de Desenvolvimento para Sistemas para Internet em formação profissional.
 
