@@ -1,16 +1,31 @@
-### Hi there 👋
+# Olá, Bem vindo ao meu GitHub!
+<img align="right" src="https://media.istockphoto.com/vectors/woman-programmer-or-female-program-development-vector-id1198094594?s=612x612" width="35%"/>
 
-<!--
-**renatamanso/renatamanso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sou Renata Manso, Analista de Desenvolvimento para Sistemas para Internet em formação profissional.
 
-Here are some ideas to get you started:
+#### Desenvolvedora estudando para se tornar uma desenvolvedora de alta performace de projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### codificando com:
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Python](https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=Python&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Redux](https://img.shields.io/badge/-Redux-61DAFB?style=flat-square&logo=redux&logoColor=6a4daf)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![php](https://img.shields.io/badge/-php-%231572B6?style=flat-square&logo=PHP&logoColor=ffffff)
+
+<img alt="GIF"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatamanso&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+  height="150px" width="300px" />
+  
+--- 
+#### Minhas Contribuições 
+![Anurag's github
+stats](https://github-readme-stats.vercel.app/api?username=renatamanso&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+#### Contate-me
+
+você pode me encontrar em:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/renatamanso/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/renatamanso)  
+
+
