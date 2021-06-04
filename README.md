@@ -1,13 +1,14 @@
 # Olá, Bem vindo ao meu GitHub!
 <img align="right" src="https://media.istockphoto.com/vectors/woman-programmer-or-female-program-development-vector-id1198094594?s=612x612" width="30%"/>
 
-#### Sou Renata Manso, Analista de Desenvolvimento para Sistemas para Internet em formação profissional.
+#### Sou Renata Manso, Analista de Sistemas para Internet em formação.
 
-#### Desenvolvedora estudando para se tornar uma desenvolvedora de alta performace de projetos
+#### Você pode encontrar alguns de meus projetos aqui e acompanhar meu crescimento no desenvolvimento de softwares.
 
 #### codificando com:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=Python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Redux](https://img.shields.io/badge/-Redux-61DAFB?style=flat-square&logo=redux&logoColor=6a4daf)
